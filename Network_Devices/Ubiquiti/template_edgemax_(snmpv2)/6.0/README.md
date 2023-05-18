@@ -16,7 +16,7 @@ This template allows you to quickly get up and running with monitoring of Ubiqui
 
 |Name|Description|Default|Type|
 |----|-----------|-------|----|
-|{$LOAD_AVG_PER_CPU.MAX.WARN}|<p>This macro is used as a threshold in memory utilization trigger.</p>|`1.5`|Text macro|
+|{$LOAD_AVG_PER_CPU.MAX.WARN}|<p>This macro is used as a threshold in CPU utilization trigger.</p>|`1.5`|Text macro|
 |{$MEMORY.UTIL.MAX}|<p>This macro is used as a threshold in memory utilization trigger.</p>|`90`|Text macro|
 
 
